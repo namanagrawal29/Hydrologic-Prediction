@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230526</CreaDate><CreaTime>14204600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20230406" Time="182257">RasterToPolygon Dindori.tif "D:\IIT Indore\Narmada\Watersheds\SHP\Dindori.shp" SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
